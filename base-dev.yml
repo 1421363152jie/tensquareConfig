@@ -19,6 +19,6 @@ eureka:
     instance-id: tensquare-base
   client:
     service-url:
-      defaultZone: http://localhost:6868/eureka
+      defaultZone: http://192.168.145.136:6868/eureka
 sms:
- ip: 125454445    
+ ip: 125454445   
